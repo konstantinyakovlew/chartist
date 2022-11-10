@@ -18,7 +18,7 @@
   "homepage": "https://github.com/konstantinyakovlew/chartist#readme",
   "dependencies": {
     "async": "^3.2.0",
-    "electron": "^9.0.0",
+    "electron": "^18.3.7",
     "nconf": "^0.10.0",
     "path": "^0.12.7"
   }
